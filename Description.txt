@@ -1,4 +1,4 @@
-Panduan Langkah demi Langkah untuk Mempelajari Semua Algoritma Machine Learning
+Panduan Langkah demi Langkah untuk Mempelajari Semua Algoritma Machine Learning from Zero to Hero
 
 1. Prediksi jumlah keuntungan yang didapat dari penjualan sejumlah kue menggunakan Linear Regression
 2. Prediksi penjualan menggunakan Polynomial Regression
